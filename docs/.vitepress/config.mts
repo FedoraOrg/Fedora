@@ -24,6 +24,10 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/FedoraOrg/Fedora' }
-    ]
+    ],
+	footer: {
+		message: '<strong>Fedora</strong> - built w/ <u><a href="https://vitepress.dev">VitePress</a></u> on <u><a href="https://github.com/FedoraOrg/Fedora/blob/main/LICENSE">MIT</a></u>',
+		copyright: '© 2024  Fedora Org.'
+	}
   }
 })

@@ -42,17 +42,7 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }, MouseEvent) => {
 </script>
 
 <template>
-	<Layout>
-		<template #layout-bottom>
-				<div class="container" data-v-566314d4="">
-					<p class="message" data-v-566314d4="">
-						<strong>Fedora</strong> - built w/ <u><a href="https://vitepress.dev">VitePress</a></u> on <u><a href="https://github.com/FedoraOrg/Fedora/blob/main/LICENSE">MIT</a></u>
-					</p>
-					<p class="copyright" data-v-566314d4="">© 2024  Fedora Org.</p>
-					<br>
-				</div>
-		</template>
-	</Layout>
+	<DefaultTheme.Layout/>
 </template>
 
 <style>
