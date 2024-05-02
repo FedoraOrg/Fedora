@@ -55,10 +55,6 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }, MouseEvent) => {
 	</Layout>
 </template>
 
-<template>
-	<DefaultTheme.Layout/>
-</template>
-
 <style>
 ::view-transition-old(root),
 ::view-transition-new(root) {
