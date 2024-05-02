@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "FedoraOrg"
-  text: "Gigi deve fare la descrizione"
-  tagline: My great project tagline
+  name: "Fedora"
+  text: "Testo da decidere :)"
+  tagline: "Non si può sconfiggere la contraffazione, ma la si può rendere inutile."
   actions:
     - theme: brand
       text: Markdown Examples
