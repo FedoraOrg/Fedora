@@ -16,9 +16,9 @@ hero:
     - theme: alt
       text: '💻 GitHub'
       link: 'https://github.com/FedoraOrg/Fedora'
-	- theme: alt
-	  text: '▷ YouTube'
-	  link: 'https://youtu.be/YJ-ZPNuiiSU'
+    - theme: alt
+      text: '▷ YouTube'
+      link: 'https://youtu.be/YJ-ZPNuiiSU'
 
 features:
   - title: 'Semplicità'
