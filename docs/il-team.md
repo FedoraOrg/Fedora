@@ -1,13 +1,8 @@
 ---
-layout: doc
 head: [['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/FedoraOrg/Fedora/main/favicon.ico' }]]
 ---
 <script setup>
-import {
-  VPTeamPage,
-  VPTeamPageTitle,
-  VPTeamMembers
-} from 'vitepress/theme'
+import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
@@ -30,20 +25,11 @@ const members = [
 ]
 </script>
 
-<VPTeamPage>
-  <VPTeamPageTitle>
-    <template #title>
-      Il team
-    </template>
-    <template #lead>
-      Siamo due ragazzi molto giovani appassionati di tecnologia e marketing.
-	  Crediamo che il progetto Fedora possa essere un buon metodo per combattere la contraffazione.
-    </template>
-  </VPTeamPageTitle>
-  <VPTeamMembers
-    :members="members"
-  />
-</VPTeamPage>
+# Il team
+Siamo due ragazzi molto giovani appassionati di tecnologia e marketing.
+Crediamo che il progetto Fedora possa essere un buon metodo per combattere la contraffazione.
+
+<VPTeamMembers size="small" :members="members" />
 
 ::: tip <CustomFooter/>
 :::

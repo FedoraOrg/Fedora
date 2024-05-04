@@ -7,6 +7,9 @@ hero:
   name: "Fedora"
   text: "La rivoluzione del made in Italy"
   tagline: "Non si può sconfiggere la contraffazione, ma la si può rendere inutile."
+  image:
+    src: '/logo.png'
+    alt: 'Fedora logo'
   actions:
     - theme: brand
       text: '🔍 Scopri di più'
