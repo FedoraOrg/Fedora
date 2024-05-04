@@ -1,7 +1,5 @@
 ---
 head: [['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/FedoraOrg/Fedora/main/resources/favicon.ico' }]]
-prev: 'Pagina precedente'
-next: 'Pagina successiva'
 ---
 
 # Il prototipo
@@ -19,4 +17,5 @@ Per visualizzare il prototipo a schermo intero, basta cliccare l'apposita icona 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FmGwnuEuG3dmk4xylunSfiG%2FFedora%3Ftype%3Ddesign%26node-id%3D342-209%26t%3DY8rQn1CgHsHwitbH-1%26scaling%3Dscale-down%26page-id%3D271%3A2%26starting-point-node-id%3D342%3A270%26mode%3Ddesign" allowfullscreen></iframe>
 
-<CustomFooter/>
+::: tip <CustomFooter/>
+:::

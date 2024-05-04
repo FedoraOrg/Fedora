@@ -1,7 +1,5 @@
 ---
 head: [['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/FedoraOrg/Fedora/main/resources/favicon.ico' }]]
-prev: 'Pagina precedente'
-next: 'Pagina successiva'
 ---
 
 <script setup>

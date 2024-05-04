@@ -1,6 +1,5 @@
 ---
 head: [['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/FedoraOrg/Fedora/main/resources/favicon.ico' }]]
-next: 'Pagina successiva'
 ---
 
 # Il progetto
@@ -29,7 +28,7 @@ inserito nell’apposita sezione di Fedora, registrerà il prodotto acquistato a
 Il logo, ovviamente, non è stato scelto a caso. Abbiamo deciso di utilizzare la fedora, un cappello tradizionale italiano, di stilizzarla e di metterla su uno sfondo viola.
 Il nome e il logo dell’azienda rispecchiano la tradizione, l’importanza dell’artigianato, ma anche la modernità e una ricerca di freschezza in prodotti più vintage.
 
-![Fedora logo](https://raw.githubusercontent.com/FedoraOrg/Fedora/main/resources/logo-round.png)
+**È possibile navigare nel sito web tramite l'apposita sidebar a sinistra o i pulsanti per cambiare pagina qui sotto.**
 
 ::: tip <CustomFooter/>
 :::

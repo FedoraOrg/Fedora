@@ -20,7 +20,7 @@ export default defineConfig({
 					{ text: 'Il progetto', link: '/il-progetto' },
 					{ text: 'Prototipo demo', link: '/prototipo-demo' },
 					{ text: 'Il team', link: '/il-team' },
-					{ text: 'Il team', link: '/il-team' }
+					{ text: 'Link utili', link: '/link-utili' }
 				]
 			}
 		],
