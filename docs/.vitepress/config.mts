@@ -3,21 +3,24 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
 	title: "Fedora",
 	description: "Non si può sconfiggere la contraffazione, ma la si può rendere inutile.",
-	logo: 'https://raw.githubusercontent.com/FedoraOrg/Fedora/main/logo.png',
+	siteTitle: 'Fedora',
+	logo: 'https://raw.githubusercontent.com/FedoraOrg/Fedora/main/resources/logo-round.png',
 	base: '/Fedora/',
 	cleanUrls: true,
 	lastUpdated: true,
 	themeConfig: {
 		nav: [
 			{ text: 'Home', link: '/' },
-			{ text: 'Examples', link: '/markdown-examples' }
+			{ text: 'Informazioni', link: '/il-progetto' }
 		],
 		sidebar: [
 			{
 				text: 'Informazioni',
 				items: [
+					{ text: 'Il progetto', link: '/il-progetto' },
+					{ text: 'Prototipo demo', link: '/prototipo-demo' },
 					{ text: 'Il team', link: '/il-team' },
-					{ text: 'Runtime API Examples', link: '/api-examples' }
+					{ text: 'Il team', link: '/il-team' }
 				]
 			}
 		],

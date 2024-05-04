@@ -1,5 +1,6 @@
 ---
 head: [['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/FedoraOrg/Fedora/main/resources/favicon.ico' }]]
+next: 'Pagina successiva'
 ---
 
 # Il progetto
@@ -7,7 +8,7 @@ Per la realizzazione di Fedora, ci siamo interrogati su un problema sempre esist
 come, dove e perché si manifesti; del perché esista e anche il motivo per cui il consumatore scelga di comprare merce contraffatta, alimentando così questo mercato.
 Infine, abbiamo provato a fornire una soluzione che avesse l’obiettivo di arginare la contraffazione e di renderla inutile.
 
-## Le limitazioni
+## Il problema storico
 La contraffazione esiste dal tempo dei romani <a href="https://www.collinedizenone.com/gli-antichi-romani-combattevano-la-contraffazione/">[1]</a>, <a href="https://www.collinedizenone.com/la-contraffazione-dellolio-nellantichita/">[2]</a> e ha prosperato fino ai nostri tempi proprio perché è un fenomeno difficile da estirpare completamente.
 Tuttavia, ci sono anche dei lati positivi da tenere in considerazione: la contraffazione, per esempio, è indice di un prodotto eccellente che vende bene sul mercato.
 Infatti, se un prodotto viene contraffatto, vuol dire che molte persone desiderano averlo. Quindi, una volta eliminata la contraffazione, le aziende che realizzano i prodotti originali avrebbero un incremento di vendite.  
@@ -27,3 +28,8 @@ inserito nell’apposita sezione di Fedora, registrerà il prodotto acquistato a
 ## Perché il logo?
 Il logo, ovviamente, non è stato scelto a caso. Abbiamo deciso di utilizzare la fedora, un cappello tradizionale italiano, di stilizzarla e di metterla su uno sfondo viola.
 Il nome e il logo dell’azienda rispecchiano la tradizione, l’importanza dell’artigianato, ma anche la modernità e una ricerca di freschezza in prodotti più vintage.
+
+![Fedora logo](https://raw.githubusercontent.com/FedoraOrg/Fedora/main/resources/logo-round.png)
+
+::: tip <CustomFooter/>
+:::

@@ -1,5 +1,4 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 head: [['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/FedoraOrg/Fedora/main/resources/favicon.ico' }]]
 
@@ -13,10 +12,13 @@ hero:
   actions:
     - theme: brand
       text: '🔍 Scopri di più'
-      link: '/TODO'
+      link: '/il-progetto'
     - theme: alt
       text: '💻 GitHub'
       link: 'https://github.com/FedoraOrg/Fedora'
+	- theme: alt
+	  text: '▷ YouTube'
+	  link: 'https://youtu.be/YJ-ZPNuiiSU'
 
 features:
   - title: 'Semplicità'

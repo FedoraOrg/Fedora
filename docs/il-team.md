@@ -1,6 +1,9 @@
 ---
 head: [['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/FedoraOrg/Fedora/main/resources/favicon.ico' }]]
+prev: 'Pagina precedente'
+next: 'Pagina successiva'
 ---
+
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'
 
@@ -11,8 +14,7 @@ const members = [
     title: 'Marketing & design manager',
     links: [
       { icon: 'github', link: 'https://github.com/ArialTNR' },
-	  { icon: 'twitter', link: 'https://twitter.com/sonovain' },
-	  { icon: 'reddit', link: 'https://www.reddit.com/sonovain' }
+	  { icon: 'twitter', link: 'https://twitter.com/sonovain' }
     ]
   },
   {
