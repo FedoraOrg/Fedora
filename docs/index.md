@@ -1,6 +1,7 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+head: [['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/FedoraOrg/Fedora/main/favicon.ico' }]]
 
 hero:
   name: "Fedora"

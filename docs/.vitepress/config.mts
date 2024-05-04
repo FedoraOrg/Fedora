@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
 	title: "Fedora",
 	description: "Non si può sconfiggere la contraffazione, ma la si può rendere inutile.",
-	logo: 'https://github.com/FedoraOrg/Fedora/blob/main/logo.png',
+	logo: 'https://raw.githubusercontent.com/FedoraOrg/Fedora/main/logo.png',
 	base: '/Fedora/',
 	cleanUrls: true,
 	lastUpdated: true,

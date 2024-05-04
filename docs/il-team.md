@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: doc
+head: [['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/FedoraOrg/Fedora/main/favicon.ico' }]]
 ---
 <script setup>
 import {
