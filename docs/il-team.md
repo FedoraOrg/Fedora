@@ -43,3 +43,6 @@ const members = [
     :members="members"
   />
 </VPTeamPage>
+
+::: tip <CustomFooter/>
+:::
