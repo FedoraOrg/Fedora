@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Fedora",
   description: "Non si può sconfiggere la contraffazione, ma la si può rendere inutile.",
+  logo: '/logo.png',
   base: '/Fedora/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
