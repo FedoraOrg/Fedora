@@ -22,7 +22,7 @@ export default defineConfig({
 			}
 		],
 		socialLinks: [
-			{ icon: 'github', link: 'https://github.com/FedoraOrg/Fedora' }
+			{ icon: 'github', link: 'https://github.com/FedoraOrg/Fedora' },
 			{ icon: 'youtube', link: 'https://github.com/FedoraOrg/Fedora' }
 		],
 		footer: {
