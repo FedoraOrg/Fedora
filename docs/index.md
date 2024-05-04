@@ -1,14 +1,14 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
-head: [['link', { rel: 'icon', href: '/Fedora/resources/favicon.ico' }]]
+head: [['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/FedoraOrg/Fedora/main/resources/favicon.ico' }]]
 
 hero:
   name: "Fedora"
   text: "La rivoluzione del made in Italy"
   tagline: "Non si può sconfiggere la contraffazione, ma la si può rendere inutile."
   image:
-    src: '/Fedora/resources/logo-round.png'
+    src: 'https://raw.githubusercontent.com/FedoraOrg/Fedora/main/resources/logo-round.png'
     alt: 'Fedora logo'
   actions:
     - theme: brand

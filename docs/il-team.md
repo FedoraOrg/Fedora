@@ -1,5 +1,5 @@
 ---
-head: [['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/FedoraOrg/Fedora/main/favicon.ico' }]]
+head: [['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/FedoraOrg/Fedora/main/resources/favicon.ico' }]]
 ---
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'
@@ -10,7 +10,9 @@ const members = [
     name: 'Simone Gandini',
     title: 'Marketing & design manager',
     links: [
-      { icon: 'github', link: 'https://github.com/ArialTNR' }
+      { icon: 'github', link: 'https://github.com/ArialTNR' },
+	  { icon: 'twitter', link: 'https://twitter.com/sonovain' },
+	  { icon: 'reddit', link: 'https://www.reddit.com/sonovain' }
     ]
   },
   {
